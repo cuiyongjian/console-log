@@ -1,7 +1,7 @@
 {
   "name": "console-log",
   "version": "1.0.0",
-  "description": "a alternative object for the console.log in chrome",
+  "description": "a alternative object for the console in chrome",
   "main": "index.js",
   "directories": {
     "doc": "doc",
@@ -26,7 +26,8 @@
   },
   "keywords": [
     "console",
-    "log"
+    "log",
+    "dir"
   ],
   "author": "cuiyongjian",
   "license": "MIT",
