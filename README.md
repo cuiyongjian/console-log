@@ -17,5 +17,6 @@ console.dir的快照输出方案
 ## Changelog
 
 ## License
+
 [MIT](http://opensource.org/licenses/MIT)
 
