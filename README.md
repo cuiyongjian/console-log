@@ -1,4 +1,4 @@
-console.log的快照输出方案
+console.dir的快照输出方案
 ==========================
 
 由于Chrome开发人员工具中原生的console对象具有跟firefox中表现不一致的问题。
