@@ -8,7 +8,7 @@ console.dir的快照输出方案
 
 ## Features
 
-* log.log 表现跟console.log一致
+* log.log 表现跟console.log一致，在chrome控制台展开时会重新计算，导致无法查看代码所处位置的对象状态
 * log.dir 可以打印对象的快照
 
 
